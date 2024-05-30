@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @williamdodds
 - 👀 I’m interested in DevOps, SRE, Programming, Cloud, 
-- 🌱 I’m currently learning ... GO, Python, GCP 
+- 🌱 I’m currently learning ... GO, Python 
 - 💞️ I’m looking to collaborate on GO / Python projects
 - 📫 How to reach me ... here is fine
